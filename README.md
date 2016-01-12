@@ -7,13 +7,13 @@ This test is based on the famous Hangman Game. Your task is to write an iOS app 
 ## Requirements
 * Write an iOS app according to the following specifications. Users of your app should be able to play the hangman game, and they should be able to view and submit their scores.
 * Email us your finished project! Be sure to include a Readme.txt explaining the cool things you did.
-* For this test, please write an iOS app using Objective-C
+* For this test, please write an iOS app using Objective-C, Swift or React-native
 * You can use ANY libraries relevant for this task.
 
 ## Our Expectations
 Through this programming test, you should be able to demostrate:
 
-* Good understanding of core iOS concepts and technologies, the Objective-C programming languange, how to construct a UI and how to organize code with MVC pattern
+* Good understanding of core iOS concepts and technologies, the Objective-C/Swift/Javascript programming languange, how to construct a UI and how to organize code with MVC/MVVM/others pattern
 * Code quality and maintainability
 * Good programming practices
 * Apply suitable algorithms to solve problems
